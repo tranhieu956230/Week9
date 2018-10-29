@@ -1,0 +1,6 @@
+Xây dựng lớp tiện ích Utils
+a. Viết hàm static để đọc một tệp .txt từ ổ cứng:
+
+public static String readContentFromFile(String path),
+
+trong đó biến path là đường dẫn đến tệp cần đọc.
